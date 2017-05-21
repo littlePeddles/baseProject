@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ShanValues sh =new ShanValues();
-		System.out.println(sh.NameCreation("Hello World1"));
+		System.out.println(sh.NameCreation("Hello World 1"));
 
 	}
 
