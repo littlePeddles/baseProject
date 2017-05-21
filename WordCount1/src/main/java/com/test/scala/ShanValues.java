@@ -5,7 +5,7 @@ public class ShanValues {
 	 String name;
 	public String NameCreation(String name){
 
-	return name;
+	return "i dont know";
 		
 	}
 
